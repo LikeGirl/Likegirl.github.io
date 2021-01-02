@@ -34,9 +34,9 @@ $ git clone https://github.com/USERNAME/USERNAME.github.io.git -b main --single-
  > Github pages에 무료 호스팅을 제공하기 때문에 많이 사용 <br>
  > <U> 즉, 전문가들이 만들어 놓은 블로그 테마를 수정해서 사용할 수 있다는 것! </U> <br>
  
-[jekyll theme](http://jekyllthemes.org/) 사이트에 들어가서 맘에 드는 테마를 선정한다. <br>
+[jekyll theme](http://jekyllthemes.org/) 사이트에 들어가서 맘에 드는 테마를 선택한다. <br>
 
-필자는 https://vszhub.github.io/not-pure-poole/dates/ 테마를 선정하였다. (테마에 따라 github 설정 방식이 다를 수 있음) <br>
+필자는 https://vszhub.github.io/not-pure-poole/dates/ 테마를 선택하였다. (테마에 따라 github 설정 방식이 다를 수 있음) <br>
 
 해당 테마의 github 페이지에 들어가서 fork 또는 download 한다. 
 ![](/assets/images\start_blog_4.png)
@@ -132,6 +132,7 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 - 가급적이면 처음 블로그를 만드는 분이시라면, 테마 제공 기능이 비교적 simple 한 걸 추천! <br> 
   (github page build 에러가 뜨면 수정하기 여러움)
 - **markdown 사용법 숙지 필요** 
+- 테마 제작자의 테마 사용법(Readme.md) 꼼꼼히 보기
 
 
 
