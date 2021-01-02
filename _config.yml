@@ -3,7 +3,7 @@ title: Cho-AH Blog
 description: 어제보다 나은 오늘
 url: https://likegirl.github.io
 avatar: /peng.jpg
-paginate: 5
+paginate: 10
 permalink: pretty
 cover_image: /bg.jpeg
 
@@ -15,7 +15,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - not-pure-poole
-	- jemoji
 
 # Optimize Jekyll
 exclude:
