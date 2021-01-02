@@ -15,6 +15,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - not-pure-poole
+	- jemoji
 
 # Optimize Jekyll
 exclude:
