@@ -115,11 +115,11 @@ date: 2021-01-02 21:49
 ![](/assets/images\start_blog_8.png)
 
 3. git push 
+
 ```terminal
 $ git add --all
 $ git commit -m "first changed"
-$ git pus
-
+$ git push
 ```
 
 (markdown 사용법 참고)
