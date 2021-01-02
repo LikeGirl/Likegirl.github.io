@@ -5,7 +5,7 @@ url: https://likegirl.github.io
 avatar: /peng.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg_bluesky.jpg
+cover_image: /bg.jpeg
 
 # Gems
 plugins:
