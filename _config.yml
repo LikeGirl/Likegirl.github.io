@@ -51,7 +51,7 @@ sass:
 # google_analytics: UA-000000-0
 
 # Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
+disqus: likegirl
 
 # Specify the author for blog posts
 author:
@@ -59,4 +59,4 @@ author:
   url: https://github.com/likegirl/
   email: joa89130@gmail.com
 
-disqus_shortname: 'likegirl'
+# disqus_shortname: 'likegirl'
