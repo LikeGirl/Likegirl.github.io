@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Cho-AH Blog
+description: 어제보다 나은 오늘
 url: https://likegirl.github.io
 avatar: /peng.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg_bluesky.jpg
 
 # Gems
 plugins:
