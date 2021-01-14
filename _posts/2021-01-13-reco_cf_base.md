@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (추천시스템) 협업 필터링
+title: (추천시스템) 협업 필터링 -메모리 기반 추천
 tags: [추천시스템]
 math: true
 date: 2021-01-13 22:55 
