@@ -2,7 +2,7 @@
 title: Cho-AH Blog
 description: 어제보다 나은 오늘
 url: https://likegirl.github.io
-avatar: /good_day.jpg
+# avatar: /good_day.jpg
 paginate: 10
 permalink: pretty
 cover_image: /Today_Sunny_Pc.jpg
